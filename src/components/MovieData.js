@@ -1,6 +1,7 @@
 import React from "react";
+import classes from "./MovieData.module.css";
 
 const MovieData = () => {
-  return <li></li>;
+  return <li className={classes.movie}></li>;
 };
 export default MovieData;
