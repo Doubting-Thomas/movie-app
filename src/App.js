@@ -24,7 +24,7 @@ function App() {
   return (
     <div>
       <h1>Movie App</h1>
-      <p>This displays specific movies dynamically from an API.</p>
+      <p>Click the button belownto show movies.</p>
       <section>
         <button onClick={displayMovie}>Generate Movie</button>
       </section>
@@ -34,5 +34,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
