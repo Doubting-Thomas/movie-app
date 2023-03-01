@@ -24,7 +24,7 @@ function App() {
   return (
     <div>
       <h1>Movie App</h1>
-      <p>Click the button belownto show movies.</p>
+      <p>Click the button below to display movies.</p>
       <section>
         <button onClick={displayMovie}>Generate Movie</button>
       </section>
