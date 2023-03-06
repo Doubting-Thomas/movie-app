@@ -23,4 +23,9 @@ body {
   font-weight: 400;
   line-height: 1.6;
   background-color: rgb(76, 76, 249);
+  color: #fff;
+}
+
+.movie__heading {
+  text-align: center;
 }
