@@ -5,3 +5,7 @@
 .movie > h2 {
   font-size: 3rem;
 }
+
+.movie > h3 {
+  font-size: 2rem;
+}
