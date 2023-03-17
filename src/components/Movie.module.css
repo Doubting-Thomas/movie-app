@@ -1,5 +1,7 @@
 .movie {
   list-style: none;
+  text-align: center;
+  color: #fff;
 }
 
 .movie > h2 {
