@@ -9,7 +9,7 @@ const MovieData = () => {
         <MovieList
           key={movie.id}
           title={movie.title}
-          director={movie.director}
+          // director={movie.director}
           producer={movie.producer}
           description={movie.description}
         />
